@@ -1,2 +1,2 @@
 print("Hello Hell")
-print ("rockstar")
+print ("rocks
